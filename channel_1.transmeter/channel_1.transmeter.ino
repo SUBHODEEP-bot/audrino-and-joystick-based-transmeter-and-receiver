@@ -21,7 +21,7 @@ void setup() {
   
   radio.begin();
  
-  radio.setChannel(50); 
+  radio.setChannel(50); // you can change it as per your uses
   
   radio.openWritingPipe(address);
   radio.setPALevel(RF24_PA_MIN);

@@ -37,7 +37,7 @@ void setup() {
   radio.begin();
 
   radio.setPALevel(RF24_PA_MIN); 
-  radio.setChannel(50); // channel 50
+  radio.setChannel(50); // channel 50 (you can change as per your uses)
   radio.openReadingPipe(0, address);
   radio.startListening();
 

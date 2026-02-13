@@ -5,9 +5,10 @@
 
 ​## Setup
 ​Detailed circuit diagrams and connection guides are available in the docs folder. The code for both transmitter and receiver can be found in their respective folders.
-​Usage
-​Follow the setup guide to assemble the hardware and upload the code to the Arduino boards. Ensure correct library installations for seamless operation.
 
+## ​Usage
+​Follow the setup guide to assemble the hardware and upload the code to the Arduino boards. Ensure correct library installations for seamless operation.
+be careful about all hardware connection, makesure NRF is conected on 3v3 and GND pin .
 ## ​Contributing
 ​Contributions, issue reports, and feature requests are welcome! Feel free to fork the repository and submit pull requests.
 
